@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw data files (too large for GitHub, user downloads separately)
+freMTPL2freq.csv
+freMTPL2sev.csv
+
+# Intermediate data
+modelling_data*.csv
